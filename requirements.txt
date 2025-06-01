@@ -1,0 +1,6 @@
+snscrape
+openai
+requests
+pandas
+streamlit
+python-telegram-bot
